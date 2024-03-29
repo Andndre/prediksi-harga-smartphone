@@ -1,5 +1,17 @@
 # AI Prediksi Harga Mobil
 
+## Regresi apa?
+Prediksi yang outputnya berupa nilai kontinue 
+
+## Algoritma yang dipake (kandidat)
+1. Linier Regresi
+2. Ridge and Lasso
+3. Decision Tree
+4. Random Forest
+5. Gradient Boosting
+6. Support Vector Regression 
+7. Neural Network Regression
+
 ## Tahapan membuat AI dengan Regresi
 1. Cari Dataset
 2. Bersihin Data (Ga boleh ada null atau kosong)
