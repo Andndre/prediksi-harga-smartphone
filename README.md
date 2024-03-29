@@ -1,7 +1,7 @@
 # AI Prediksi Harga Mobil
 
 ## Regresi apa?
-Prediksi yang outputnya berupa nilai kontinue 
+Prediksi yang outputnya berupa nilai kontinue (angka). Berbeda dengan Klasifikasi yang hanya bisa menghasilkan output berupa enum (misalnya dalam prediksi cuaca itu seperti Hujan, Cerah, Panas)
 
 ## Algoritma yang dipake (kandidat)
 1. Linier Regresi
