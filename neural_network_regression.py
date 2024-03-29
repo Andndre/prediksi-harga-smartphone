@@ -31,7 +31,7 @@ X_train, X_test, y_train, y_test = train_test_split(X_normalizer, y, test_size=0
 # Membuat model Sequential
 model = Sequential()
 
-# Menambahkan layer input dan layer tersembunyi
+# Menambahkan layer input dan hidden layer
 model.add(Dense(128, input_dim=X_train.shape[1], activation='relu'))
 model.add(Dense(64, activation='relu'))
 model.add(Dense(64, activation='relu'))
