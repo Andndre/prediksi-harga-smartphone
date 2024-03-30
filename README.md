@@ -30,4 +30,4 @@ Regresi adalah metode dalam machine learning yang digunakan untuk memprediksi ni
 3. Lasso Regression: 0.814836712339565 (alpha 1.0)
 4. Decision Tree: 0.8483979773872512 (depth 6)
 5. Random Forest: 0.9123759907926651 (n_estimators=99, max_depth=6, random_state=42)
-6. Neural Network: 0.9177054408260952
+6. Neural Network Regression: 0.9220560813939203

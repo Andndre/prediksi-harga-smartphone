@@ -61,3 +61,5 @@ print('R2 Score : ', r2)
 # plt.title('Perbandingan Nilai Aktual dan Nilai Prediksi')
 # plt.legend()
 # plt.show()
+
+# Me

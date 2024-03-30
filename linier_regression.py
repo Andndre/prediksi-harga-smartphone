@@ -48,16 +48,16 @@ print('MAE : ', mae)
 print('MSE : ', mse)
 print('R2 Score : ', r2)
 
-plt.figure(figsize=(8, 6))
+# plt.figure(figsize=(8, 6))
 
-# Plot nilai aktual (y_test) dengan warna merah
-plt.scatter(np.arange(len(y_test)), y_test, color='red', label='Nilai Aktual')
+# # Plot nilai aktual (y_test) dengan warna merah
+# plt.scatter(np.arange(len(y_test)), y_test, color='red', label='Nilai Aktual')
 
-# Plot nilai prediksi (y_pred) dengan warna biru
-plt.scatter(np.arange(len(y_test)), y_pred, color='blue', label='Nilai Prediksi')
+# # Plot nilai prediksi (y_pred) dengan warna biru
+# plt.scatter(np.arange(len(y_test)), y_pred, color='blue', label='Nilai Prediksi')
 
-plt.xlabel('Index Data')
-plt.ylabel('Nilai')
-plt.title('Perbandingan Nilai Aktual dan Nilai Prediksi')
-plt.legend()
-plt.show()
+# plt.xlabel('Index Data')
+# plt.ylabel('Nilai')
+# plt.title('Perbandingan Nilai Aktual dan Nilai Prediksi')
+# plt.legend()
+# plt.show()
